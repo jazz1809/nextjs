@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 style={{textAlign='center'}}>My Resume</h1>
+      <h1>My Resume</h1>
+      
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
